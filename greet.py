@@ -1,1 +1,1 @@
-print("Greetings from Jenkins Python script!")
+print("Greetings from Jenkins Python scrpt!")
